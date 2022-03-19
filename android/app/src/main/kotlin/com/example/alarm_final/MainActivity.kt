@@ -1,0 +1,6 @@
+package com.example.alarm_final
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
